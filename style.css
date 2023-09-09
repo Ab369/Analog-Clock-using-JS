@@ -27,7 +27,7 @@ body{
     height:15vmin;
     position:absolute;
     left: 49.5%;
-    top: 28%;
+    top: 31%;
     transform-origin: bottom;
 }
 
@@ -38,7 +38,7 @@ body{
     height:23vmin;
     position:absolute;
     left: 49.5%;
-    top: 19%;
+    top: 23%;
     transform-origin: bottom;
 }
 
@@ -49,7 +49,27 @@ body{
     height:27vmin;
     position:absolute;
     left: 49.5%;
-    top: 16%;
+    top: 18%;
     transform-origin: bottom;
 }
 
+@media (max-width:900px)
+{
+    #hour
+    {
+        left: 49.5%;
+       top: 28%;
+    }
+
+    #min
+    {
+        left: 49.5%;
+        top: 19%;
+    }
+
+    #sec
+    {
+        left: 49.5%;
+       top: 16%;
+    }
+}
