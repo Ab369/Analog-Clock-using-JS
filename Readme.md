@@ -1,0 +1,6 @@
+- Built using html,css,js
+- better understanding on position relative,absolute 
+- using background image in css
+- used **Date** object in Js
+- changed css transform property using JS
+- 
