@@ -3,5 +3,5 @@
 - using background image in css
 - used **Date** object in Js
 - changed css transform property using JS
-- link: [https://analog-clock-using-js.vercel.app/](click here)
+- link: [click here](https://analog-clock-using-js.vercel.app/)
 - 
